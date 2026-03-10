@@ -6,6 +6,6 @@
 ## Etape du lancement du projet
 - Cloner le dépôt dans votre serveur web (dans le dossier htdocs si vous utilisez MAMP)
 - Lancer le serveur web
-- Créer une base de donnée vide appelée cinema dans le serveur web. Par exemple avec phpMyAdmin
+- Créer une base de données vide appelée cinema dans le serveur web. Par exemple avec phpMyAdmin
 - Importer le fichier cinema.sql dans la base de données
 - Taper l'URL localhost/le-nom-du-dossier-contenant-le-depot/index.php
